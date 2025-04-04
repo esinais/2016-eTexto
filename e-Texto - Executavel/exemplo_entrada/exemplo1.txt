@@ -1,0 +1,1 @@
+O e-Texto converte textos em português para facilitar a compreensão dos surdos. O software trabalha com uma interface de fácil manuseio, usando de artifícios, tais como, a possibilidade do usuário de acrescentar dados, por exemplo, algumas palavras ainda desconhecidas pelo software.

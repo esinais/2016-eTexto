@@ -1,0 +1,13 @@
+Executar o seguinte comando no prompt na pasta "...\e-Texto\lib":
+	java -cp hsqldb.jar org.hsqldb.util.DatabaseManagerSwing
+	
+Definir a seguinte configuração no HSQL Database Manager para ter acesso ao banco de dados PUBLIC.VERBO:
+	Setting name: HSQL Database Engine
+	Type: HSQL Database Engine Standalone
+	Driver: org.hsqldb.jdbcDriver
+	URL: jdbc:hsqldb:file:../dados/verbos/verbos
+	User: SA
+	Password:
+	
+	Ver arquivo "Conexão BD PUBLIC.VERBO.png"
+
